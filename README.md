@@ -1,2 +1,2 @@
 # PicGoMyDevice
-My Device Universe 2086
+Laptop HUAWEI Device.
